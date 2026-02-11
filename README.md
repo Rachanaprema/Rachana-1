@@ -97,10 +97,13 @@ Tech Used: Python, ML, NLP
 ---
 
 ## Connect With Me
-- LinkedIn: (add your link)
-- Portfolio: (add link if available)
-- Email: (your professional email)
+- LinkedIn: https://www.linkedin.com/in/rachana-r-2281b5323/
+- Portfolio: https://rachanar.framer.website/
+- Email: rachanaprema1@gmail.com
 
 ---
 
 ⭐ Always open to collaborating on meaningful projects and innovative ideas.
+
+
+
