@@ -79,7 +79,7 @@ Tech Used: Python, PyTorch
 
 ---
 
-### 🤖 AI-Driven Content Generation Platform
+### AI-Driven Content Generation Platform
 Built an AI-powered system for generating blog and product content.
 - NLP-based contextual understanding
 - Tone adjustment
